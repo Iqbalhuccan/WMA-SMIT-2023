@@ -1,0 +1,53 @@
+body {
+    background-color: #26a69a;
+}
+h1{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+#main{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 35px;
+    background-color: #208d83;
+}
+
+h2 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-color:#e57373;
+    padding: 20px;
+}
+.main{
+    color: black;
+    background-color: white;
+}
+
+a{
+    font-family: 'Times New Roman', serif;
+    font-size: large;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    background-color: rgb(0, 127, 83);
+
+}
+
+.anchor{
+    background-color: #208d83;
+    color: white;
+}
+
+.anchor:hover{
+    color: black;
+}
+div{
+    text-align: center;
+}
+.button{
+    color: white;
+    font-size: larger;
+}
+.button:hover{
+    color: red;
+}

@@ -1,0 +1,18 @@
+body{
+    background-color: aquamarine;
+}
+h2{
+    text-align: center;
+}
+    .question {
+      margin-bottom: 20px;
+    }
+
+    .options label {
+      display: block;
+      margin-bottom: 10px;
+    }
+
+    .submit-btn {
+      margin-top: 20px;
+    }
