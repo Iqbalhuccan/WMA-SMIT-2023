@@ -1,0 +1,62 @@
+h1{
+    text-align: center;
+    color: rgb(23, 255, 23);
+    background-color:rgb(6, 139, 183);
+    padding: 26px;
+    font-size:38px;
+    text-shadow: 2px 1px 3px rgb(0, 0, 0);
+    border-radius: 3px;
+}
+.div0{
+    box-shadow: 3px 2px 4px rgb(120, 120, 117);
+}
+.h2{
+    color: rgb(8, 58, 242);
+    margin-left: 50px;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+.div1{
+    background-color: rgba(225, 244, 233, 0.989);
+    width: 300px;
+    height: 60px;
+    max-height: 20%;
+    border-radius: 5px;
+    text-align: center;
+    margin: 20px 30px 20px 30px;
+    text-shadow: 2px 1px 3px rgb(156, 157, 159);
+    box-shadow: 3px 2px 4px rgb(120, 120, 117);
+    
+}
+.div2{
+    background-color: rgba(225, 244, 233, 0.989);
+    width: 300px;
+    height: 60px;
+    border-radius: 5px;
+    text-align: center;
+    margin: 20px 30px 20px 30px;
+    text-shadow: 2px 1px 3px rgb(156, 157, 159);
+    box-shadow: 3px 2px 4px rgb(120, 120, 117);
+}
+.div3{
+    background-color: rgba(225, 244, 233, 0.989);
+    width: 300px;
+    height: 60px;
+    border-radius: 5px;
+    text-align: center;
+    margin: 20px 30px 20px 30px;
+    text-shadow: 2px 1px 3px rgb(156, 157, 159);
+    box-shadow: 3px 2px 4px rgb(120, 120, 117);
+}
+a{
+    text-decoration: none;
+}
+span{
+    color: rgb(241, 11, 11);
+}
+footer{
+    text-align: right;
+    
+}
