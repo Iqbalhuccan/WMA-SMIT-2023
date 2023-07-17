@@ -1,17 +1,29 @@
+@font-face {
+    font-family: my-font;
+    src: url(Futura\ Black.ttf);
+}
+@font-face {
+    font-family: btlr;
+    src: url(Butler_ExtraBold.otf);
+}
 h1{
     background-color: rgba(255, 99, 71, 0.6);
     text-align: center;
     color: white;
     padding: 40px;
     border-radius: 2px;
-    font-family: sans-serif;
     text-shadow: 2px 2px 2px black;
     margin: 0px;
+    font-family: my-font;
 
 }
 h3{
     text-align: left;
     padding-right: 10px;
+    font-family: btlr;
+}
+span{
+    font-family: btlr;
 }
 body{
     background-color: rgb(214, 212, 212);
